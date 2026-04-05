@@ -109,13 +109,6 @@ Yazılım kariyerimde ERP sistemleri önemli bir yer tutmaktadır:
 
 ---
 
-## 📈 GitHub İstatistikleri
-
-![Enes'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=enes-ozdemir23&show_icons=true&theme=tokyonight&locale=tr)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=enes-ozdemir23&layout=compact&theme=tokyonight&locale=tr)
-
----
 
 ## 📫 İletişim
 
