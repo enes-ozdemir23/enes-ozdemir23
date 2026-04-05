@@ -50,28 +50,28 @@ Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyum. **ASP.NET Core Web API
 
 ---
 
-### 🍽️ [QR Kodlu Sipariş Yönetim Sistemi](https://github.com/enes-ozdemir23/SignalRProject)
+### 🍽️ [QR Kodlu Sipariş Yönetim Sistemi](https://github.com/enes-ozdemir23/AspNetCore-Api-SignalR-QR-Order-Management)
 > QR kod okuma ile masa bazlı sipariş alımı ve SignalR ile gerçek zamanlı yönetim sistemi. Admin panelinde anlık sipariş takibi, bildirim ve mesajlaşma özellikleri bulunmaktadır.
 
 `ASP.NET Core 6.0` `SignalR` `Web API` `N-Tier` `DTO` `MailKit` `Bootstrap` `Ajax`
 
 ---
 
-### 📊 [EF Core & LINQ Masterclass](https://github.com/enes-ozdemir23/EFCoreMasterclass)
+### 📊 [EF Core & LINQ Masterclass](https://github.com/enes-ozdemir23/EntityFramework-Dashboard)
 > 70+ EF Core ve LINQ metodu uygulamalı olarak ele alınmıştır. Stored Procedure, Trigger, View kullanımı ve LINQ sorguları ile dashboard geliştirilmiştir.
 
 `EF Core` `LINQ` `Repository Pattern` `Unit of Work` `T-SQL` `Stored Procedure` `Trigger` `Dashboard`
 
 ---
 
-### 🔌 [ASP.NET Core API — RapidAPI & API Consume](https://github.com/enes-ozdemir23/AspNetCoreApi)
+### 🔌 [ASP.NET Core API — RapidAPI & API Consume](https://github.com/enes-ozdemir23/AspNetCore-Api-Hotel-Booking)
 > JWT kimlik doğrulama, ASP.NET Identity, Fluent Validation ve RapidAPI entegrasyonu içeren tam kapsamlı API projesi.
 
 `Web API` `JWT` `ASP.NET Identity` `Claims` `Cookie Auth` `CORS` `HttpClient` `RapidAPI` `Fluent Validation`
 
 ---
 
-### 🌐 [ASP.NET Core 5.0 Web Uygulaması](https://github.com/enes-ozdemir23/CoreProject)
+### 🌐 [ASP.NET Core 5.0 Web Uygulaması](https://github.com/enes-ozdemir23/AspNetCore-Personal-Portfolio)
 > N-Tier Architecture, Repository Pattern, Identity ve rol yönetimi, raporlama ve chart entegrasyonu içeren tam kapsamlı web projesi. Deploy süreçleri tamamlanmıştır.
 
 `ASP.NET Core 5.0` `MVC` `EF Core` `Identity` `N-Tier` `Ajax` `Chart` `Deploy`
